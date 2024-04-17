@@ -4,3 +4,4 @@
 
 - Tech Stack used
     - Python and Flask Framework.
+    - Machine Learning.
