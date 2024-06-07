@@ -5,4 +5,5 @@
 - Tech Stack used -
     - Python and Flask Framework.
     - Machine Learning.
-    - Jupyter Notebook / Google Collab.
+    - Jupyter Notebook
+    - You can also use Google Collab.
