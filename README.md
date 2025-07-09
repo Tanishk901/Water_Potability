@@ -6,4 +6,4 @@
     - Python and Flask Framework.
     - Machine Learning.
     - Jupyter Notebook
-    - You can also use Google Collab.
+    - You can also use Google Colab.
